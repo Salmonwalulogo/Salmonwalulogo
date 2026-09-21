@@ -1,72 +1,91 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                 HERO BANNER                     -->
-<!-- ═══════════════════════════════════════════════ -->
+# ⚡ MON | FULL STACK DEVELOPER
 
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111c44,100:00f2ff&height=220&section=header&text=MON&fontSize=80&fontColor=00f2ff&fontAlignY=45&animation=twinkling"/>
+### `Building The Future With Code 🚀`
 
-<!-- PROFILE AVATAR -->
-
-<img src="https://avatar.vercel.sh/MON?text=MON&size=160"
-width="160"
-alt="MON Profile"/>
-
-<br><br>
-
-<!-- MAIN TITLE -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00F2FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+MON;Full+Stack+Developer;Creative+Web+Engineer;Building+Digital+Experiences;Code.+Create.+Innovate. 🚀"
-alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+PHP+%7C+JavaScript;Python+%7C+Creative+Coding;Welcome+To+My+Digital+World" />
 
 <br>
 
-<h3>
-⚡ FULL STACK DEVELOPER • CREATIVE CODER • TECH ENTHUSIAST
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00f2ff&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=111c44&labelColor=050816"/>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-00f2ff?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-00f2ff?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00f2ff)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-## 🌌 ABOUT ME
+## 👨‍💻 ABOUT ME
 
-```javascript
-const MON = {
+Hello! I'm **MON**, a Software Engineering Technology
+student who loves creating modern web applications.
 
-    name: "MON",
+- 🌐 Full Stack Web Development
+- 🚀 Laravel & PHP
+- 🎨 Creative UI/UX Design
+- 🐍 Python Development
+- 🤖 Artificial Intelligence
+- ⚡ 3D Web Experiences
 
-    role: "Full Stack Developer",
+---
 
-    location: "Indonesia 🇮🇩",
+## 🛠️ MY TECHNOLOGIES
 
-    education: "Software Engineering Technology Student",
+<div align="center">
 
-    interests: [
-        "Web Development",
-        "3D UI/UX",
-        "Creative Coding",
-        "Artificial Intelligence",
-        "Backend Engineering"
-    ],
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,mysql,bootstrap,git,github,vscode" />
 
-    currentFocus: "Building innovative digital experiences",
+</div>
 
-    mindset: "Learn • Build • Improve 🚀"
+---
 
-};
+## 🚀 CURRENT PROJECTS
+
+| Project | Technology |
+|---|---|
+| 🌐 Marketplace | PHP, MySQL |
+| 🎓 Academic System | Laravel |
+| 🤖 AI Agent MON | Python |
+| 🎨 Creative Web | HTML, CSS, JS |
+
+---
+
+## 📊 GITHUB STATISTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🧠 MY PHILOSOPHY
+
+> "Learn today. Build tomorrow. Create the future."
+
+```python
+while True:
+    learn()
+    build()
+    improve()
+```
+
+---
+
+<div align="center">
+
+### ⚡ CODE • CREATE • INNOVATE ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
