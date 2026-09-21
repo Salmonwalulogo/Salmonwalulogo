@@ -1,83 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+MON;A+Passionate+Frontend+Developer;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmonwalulogo&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/MON?logo=github&style=for-the-badge&color=FF6584" alt="followers" />
-  <img src="https://img.shields.io/github/stars/MON?logo=github&style=for-the-badge&color=FFD93D" alt="stars" />
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-### 💫 About Me:
-- 🔭 I'm currently working on **Full Stack Projects**
-- 🌱 Learning **React & Next.js**
-- 💬 Ask me about **HTML, CSS, JS, PHP**
-- 📫 Reach me: **salmonwalulogo@gmail.com**
-- ⚡ Fun fact: **I love turning coffee into code ☕ → 💻**
-
-<br/>
-
-## 🌐 Connect With Me:
-<p align="center">
-  <a href="https://linkedin.com/in/salmon-walu-logo-b34101388" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://fb.com/salmonwalulogo" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/salmonwalulogo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/salmonwalulogo" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,nodejs,laravel,mysql,python,react,git,vscode&theme=dark&perline=6" />
-</div>
-
-<br/>
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MON&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MON&theme=radical&hide_border=true&background=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MON&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  <!-- Banner Animasi Gelombang Neon -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=200&section=header&text=&fontSize=0" width="100%"/>
+  
+  <!-- Foto Profil dengan Efek Glow 3D (Ganti URL dengan foto profil aslimu) -->
+  <img src="https://avatar.vercel.sh/MON?text=MON&size=150" width="150" style="border-radius: 50%; border: 3px solid #00f2ff; box-shadow: 0 0 25px rgba(0, 242, 255, 0.6), inset 0 0 15px rgba(0, 242, 255, 0.4);"/>
+  
+  <h1>Hi 👋, I'm <span style="color: #00f2ff; text-shadow: 0 0 10px #00f2ff;">MON</span></h1>
+  
+  <!-- Animasi Mengetik dengan Tema 3D & Web Dev -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Building+Immersive+Web+Experiences+🌐;Loving+3D+Animations+&+Lively+UI+✨;Python+%7C+HTML+%7C+CSS+%7C+JS+%7C+PHP" alt="Typing SVG"/>
+  
+  <h3>Frontend Developer | 3D Web Enthusiast | India 🇮🇳</h3>
+  
+  <!-- Ilustrasi 3D Developer -->
+  <img src="https://user-images.githubusercontent.com/74038190/212748456-1c19ce47-1f8f-4283-a948-9dc4837e5445.gif" width="400"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MON&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+## 🎯 Mission Status
 
----
-
-## 🎵 Currently Vibing:
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=6C63FF" />
-  </a>
-</div>
-
----
-
-## 💬 Quote of the Day:
-<div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&bgColor=0d1117" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-</div>
-
-<p align="center">Made with ❤️ by <b>MON</b></p>
+```diff
++ 🌟 Status: Online & Coding
++ 🎓 Currently: Politeknik Negeri Jember (Web Dev Journey)
++ 🚀 Focus: Integrating 3D Animations with Lively UI
++ 💡 Philosophy: "Code is poetry, and the browser is my canvas."
