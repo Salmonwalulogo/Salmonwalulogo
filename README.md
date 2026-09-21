@@ -1,91 +1,116 @@
+# 🖤 SALMONWALULOGO
+
 <div align="center">
 
-# ⚡ MON | FULL STACK DEVELOPER
+```
+███████╗ █████╗ ██╗     ███╗   ███╗ ██████╗ ███╗   ██╗
+██╔════╝██╔══██╗██║     ████╗ ████║██╔═══██╗████╗  ██║
+███████╗███████║██║     ██╔████╔██║██║   ██║██╔██╗ ██║
+╚════██║██╔══██║██║     ██║╚██╔╝██║██║   ██║██║╚██╗██║
+███████║██║  ██║███████╗██║ ╚═╝ ██║╚██████╔╝██║ ╚████║
+╚══════╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+```
 
-### `Building The Future With Code 🚀`
+### `FULL STACK DEVELOPER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+PHP+%7C+JavaScript;Python+%7C+Creative+Coding;Welcome+To+My+Digital+World" />
+**Turning Ideas Into Digital Experiences.**
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00f2ff)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Salmonwalulogo-black?style=flat-square&logo=github)](https://github.com/Salmonwalulogo)
+[![Status](https://img.shields.io/badge/Status-Coding-success?style=flat-square)](https://github.com/Salmonwalulogo)
 
 </div>
 
 ---
 
-## 👨‍💻 ABOUT ME
+## 👋 WHO AM I?
 
-Hello! I'm **MON**, a Software Engineering Technology
-student who loves creating modern web applications.
+I'm **MON**, a Software Engineering Technology student
+passionate about building websites, applications, and
+creative digital experiences.
 
-- 🌐 Full Stack Web Development
-- 🚀 Laravel & PHP
-- 🎨 Creative UI/UX Design
-- 🐍 Python Development
-- 🤖 Artificial Intelligence
-- ⚡ 3D Web Experiences
-
----
-
-## 🛠️ MY TECHNOLOGIES
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,mysql,bootstrap,git,github,vscode" />
-
-</div>
-
----
-
-## 🚀 CURRENT PROJECTS
-
-| Project | Technology |
-|---|---|
-| 🌐 Marketplace | PHP, MySQL |
-| 🎓 Academic System | Laravel |
-| 🤖 AI Agent MON | Python |
-| 🎨 Creative Web | HTML, CSS, JS |
-
----
-
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🧠 MY PHILOSOPHY
-
-> "Learn today. Build tomorrow. Create the future."
-
-```python
-while True:
-    learn()
-    build()
-    improve()
+```yaml
+name: MON
+username: Salmonwalulogo
+role: Full Stack Developer
+location: Indonesia
+status: Learning & Building
 ```
 
 ---
 
+## ⚡ TECHNOLOGY STACK
+
+| Category | Technologies |
+|---|---|
+| Frontend | HTML, CSS, JavaScript |
+| Backend | PHP, Laravel |
+| Database | MySQL |
+| Programming | Python |
+| Tools | Git, GitHub, VS Code |
+
+---
+
+## 🚀 WHAT I DO
+
+```text
+[01] BUILD WEB APPLICATIONS
+[02] DESIGN MODERN INTERFACES
+[03] DEVELOP BACKEND SYSTEMS
+[04] EXPLORE ARTIFICIAL INTELLIGENCE
+[05] LEARN NEW TECHNOLOGIES
+```
+
+---
+
+## 🧩 PROJECTS
+
+### 🌐 Marketplace System
+> Building modern online marketplace experiences.
+
+### 🎓 Academic Information System
+> Developing systems for academic management.
+
+### 🤖 AI Agent MON
+> Exploring AI-powered tools and automation.
+
+### 🎨 Creative Web Projects
+> Experimenting with interactive interfaces and animations.
+
+---
+
+## 🧠 DEVELOPER MINDSET
+
+> "Every expert was once a beginner."
+
+```python
+def developer():
+    while True:
+        learn()
+        practice()
+        build()
+        improve()
+```
+
+---
+
+## 📊 GITHUB ACTIVITY
+
 <div align="center">
 
-### ⚡ CODE • CREATE • INNOVATE ⚡
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salmonwalulogo&show_icons=true&theme=dark&hide_border=true)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salmonwalulogo&layout=compact&theme=dark&hide_border=true)
 
-**Thanks for visiting my profile! 🚀**
+</div>
+
+---
+
+<div align="center">
+
+### 🖤 CODE. BUILD. REPEAT.
+
+**Thanks for visiting my profile!**
+
+[⭐ Visit My GitHub](https://github.com/Salmonwalulogo)
 
 </div>
