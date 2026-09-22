@@ -33,7 +33,7 @@ developer:
   name: "MON"
   username: "Salmonwalulogo"
   role: "Full Stack Developer"
-  location: "Indonesia 🇮🇩"
+  location: "Sabu Raijua 🇮🇩"
   education: "Software Engineering Technology"
 
   mindset:
