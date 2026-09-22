@@ -28,12 +28,11 @@
 
 </div>
 
-```yaml
 developer:
   name: "MON"
   username: "Salmonwalulogo"
   role: "Full Stack Developer"
-  location: "Indonesia 🇮🇩"
+  location: "Sabu Raijua ID"
   education: "Software Engineering Technology"
 
   mindset:
@@ -42,9 +41,7 @@ developer:
     - Innovate
 
   mission: "Turning ideas into digital experiences"
-```
 
----
 
 <div align="center">
 
@@ -64,32 +61,27 @@ developer:
 
 ### 🧠 CORE SKILLS
 
-```text
 Frontend Development
 Backend Development
 Database Management
 Responsive Design
 Creative Coding
-```
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚀 CURRENT FOCUS
 
-```text
 Laravel Applications
 Modern Web Design
 AI Coding Agents
 Python Projects
 3D User Interfaces
-```
 
 </td>
 </tr>
 </table>
 
----
 
 ## 💎 FEATURED PROJECTS
 
